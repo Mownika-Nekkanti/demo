@@ -5,4 +5,4 @@ int c=a+b;
 a=a-b;
 b=a-b;
 console.writeLine(a);
-console.writeLine(a);
+console.writeLine(b);
